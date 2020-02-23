@@ -1,3 +1,5 @@
 # train_git
-training
-dd
+import pandas as pd
+# training
+# dd
+

@@ -6,5 +6,7 @@ import pandas as pd
 # change packeges
 import numpy as np
 
-# code by olga
+
+# code by olga and oleg
 # hehe
+

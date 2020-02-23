@@ -1,5 +1,5 @@
 # train_git
 import pandas as pd
-# training
-# xxx
 
+# change packeges
+import numpy as np
